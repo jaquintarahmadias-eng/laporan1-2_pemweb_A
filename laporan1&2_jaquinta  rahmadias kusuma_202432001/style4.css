@@ -1,9 +1,0 @@
-/* Jaquinta Rahmadias Kusuma_202432001 */
-body { background: linear-gradient(135deg, #1a1a1a 0%, #2c3e50 100%);
-        min-height : 100vh;
-        margin: 0; }
-.card {
-    border-radius: 20px;
-    background-color: #515c65 !important; 
-}
-.nav-link:hover { color: #f1c40f !important; }
